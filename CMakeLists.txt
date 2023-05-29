@@ -3,3 +3,5 @@ project(Timus)
 
 add_executable(1409 ./src/1409.cpp)
 add_executable(1877 ./src/1877.cpp)
+add_executable(2001 ./src/2001.cpp)
+add_executable(1787 ./src/1787.cpp)
