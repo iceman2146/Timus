@@ -2,7 +2,7 @@
 # Всякие задания с сайта  https://timus.online/ 🚀  
 Import your existing Readme using the import button on the top right corner of the navbar, 
 or create a new Readme from scratch by typing in the editor.  
-
+# Ссылка на меня:https://timus.online/author.aspx?id=352840
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)  
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://choosealicense.com/licenses/gpl-3.0/)  
